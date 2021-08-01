@@ -22,4 +22,4 @@ elif BMI <= 39.9:
 else:
     print("You are severely obese, \nYou need to consult doctor and work on your Diet and Exercise Immediately.")
 
-print(" Hit enter to exit, Thank You!")
+Bye=input(" Hit enter to exit, Thank You!")
